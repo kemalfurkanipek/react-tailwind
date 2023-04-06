@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik&display=swap');
+
+.fFamily {
+    font-family: 'Rubik',sans-serif;
+}
+
+.backImage {
+    background-image: url("../images/icons/hero.svg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    width: 100%;
+}
+
+.footerImage {
+    background-image: url("../images/icons/footerImage.svg");
+    background-repeat: no-repeat;
+}
